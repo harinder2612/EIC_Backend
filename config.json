@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/envimpact_app",
+    "secret": "secret_bKa0_s8Df_Mkcd_1wDn_m43G_jaSv"
+}
